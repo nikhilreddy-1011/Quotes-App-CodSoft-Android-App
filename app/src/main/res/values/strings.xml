@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quotes App</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Welcome to Quotes App! 🎉</string>
+    <string name="onboarding_welcome_desc">Discover inspiring quotes daily to motivate and uplift your spirit. Get a fresh dose of wisdom every day!</string>
+    <string name="onboarding_favorites_title">Save Your Favorites ❤️</string>
+    <string name="onboarding_favorites_desc">Found a quote you love? Tap the heart icon to save it to your favorites and access it anytime!</string>
+    <string name="onboarding_share_title">Share the Inspiration 📤</string>
+    <string name="onboarding_share_desc">Spread positivity! Share quotes with friends on WhatsApp, Instagram, Facebook, and more!</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_search">Search</string>
+    
+    <!-- Actions -->
+    <string name="action_refresh">Refresh Quote</string>
+    <string name="action_favorite">Toggle Favorite</string>
+    <string name="action_share">Share Quote</string>
+    <string name="action_search">Search</string>
+    
+    <!-- Messages -->
+    <string name="no_quote_available">No quote available</string>
+    <string name="no_favorites">No favorites yet</string>
+    <string name="no_favorites_desc">Tap the heart icon on quotes you love!</string>
+    <string name="no_results">No quotes found</string>
+    <string name="no_results_desc">Try a different search or category</string>
+    <string name="search_placeholder">Search by keyword or author...</string>
+    
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_motivation">Motivation</string>
+    <string name="category_success">Success</string>
+    <string name="category_life">Life</string>
+    <string name="category_love">Love</string>
+    <string name="category_study">Study</string>
+    <string name="category_fitness">Fitness</string>
+    <string name="category_sad">Sad</string>
+    <string name="category_happy">Happy</string>
+</resources>

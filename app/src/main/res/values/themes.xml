@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for Compose app -->
+    <style name="Theme.QuotesApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">#87CEEB</item>
+        <!-- Background color -->
+        <item name="android:windowBackground">@color/background_white</item>
+    </style>
+</resources>

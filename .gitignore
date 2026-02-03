@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild
+.cxx
+/caches/
+/daemon/
+/wrapper/
+/jdks/
+/native/
+/kotlin-profile/
+*.log
+hs_err_pid*.log
