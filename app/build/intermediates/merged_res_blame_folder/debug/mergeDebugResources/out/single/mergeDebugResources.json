@@ -4,24 +4,24 @@
         "source": "com.quotes.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Quotes App\\daemon\\8.5\\com.quotes.app-debug-4:\\xml_file_paths.xml.flat",
-        "source": "C:\\Quotes App\\daemon\\8.5\\com.quotes.app-main-6:\\xml\\file_paths.xml"
+        "merged": "com.quotes.app-debug-4:/xml_file_paths.xml.flat",
+        "source": "com.quotes.app-main-6:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.quotes.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.quotes.app-main-6:/xml/backup_rules.xml"
     },
     {
         "merged": "com.quotes.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
         "source": "com.quotes.app-main-6:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Quotes App\\daemon\\8.5\\com.quotes.app-debug-4:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Quotes App\\daemon\\8.5\\com.quotes.app-main-6:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Quotes App\\daemon\\8.5\\com.quotes.app-debug-4:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Quotes App\\daemon\\8.5\\com.quotes.app-main-6:\\xml\\backup_rules.xml"
-    },
-    {
         "merged": "com.quotes.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "com.quotes.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quotes.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.quotes.app-main-6:/xml/data_extraction_rules.xml"
     },
     {
         "merged": "com.quotes.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",

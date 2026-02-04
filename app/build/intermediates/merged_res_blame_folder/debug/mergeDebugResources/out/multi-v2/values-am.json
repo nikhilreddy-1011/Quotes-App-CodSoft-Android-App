@@ -4,24 +4,7 @@
             "outputFile": "com.quotes.app-mergeDebugResources-2:/values-am/values-am.xml",
             "map": [
                 {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\31c9304e53d725baa980079483235944\\transformed\\jetified-play-services-ads-22.6.0\\res\\values-am\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "199,239,286,337,398,461,546,618,703,753,848,906,1009,1080,1117,1191,1223,1259,1305,1369,1408",
-                        "endColumns": "39,46,50,60,62,84,71,84,49,94,57,102,70,36,73,31,35,45,63,38,55",
-                        "endOffsets": "238,285,336,397,460,545,617,702,752,847,905,1008,1079,1116,1190,1222,1258,1304,1368,1407,1463"
-                    },
-                    "to": {
-                        "startLines": "76,77,78,81,82,83,85,86,87,88,89,90,91,95,96,97,98,99,100,101,124",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7686,7730,7781,7996,8061,8128,8283,8359,8448,8502,8601,8663,8770,9070,9111,9189,9225,9265,9315,9383,11394",
-                        "endColumns": "43,50,54,64,66,88,75,88,53,98,61,106,74,40,77,35,39,49,67,42,59",
-                        "endOffsets": "7725,7776,7831,8056,8123,8212,8354,8443,8497,8596,8658,8765,8840,9106,9184,9220,9260,9310,9378,9421,11449"
-                    }
-                },
-                {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\add33e9cfaeca73ca47204db96f3be74\\transformed\\jetified-material3-1.1.2\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\18f8b5cb3987264385be7b802429417e\\transformed\\jetified-material3-1.1.2\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,58 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\9ff48c10434332a6868f3a84488dfaec\\transformed\\browser-1.4.0\\res\\values-am\\values-am.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,151,246,352",
-                        "endColumns": "95,94,105,96",
-                        "endOffsets": "146,241,347,444"
-                    },
-                    "to": {
-                        "startLines": "34,71,72,73",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "3453,7227,7322,7428",
-                        "endColumns": "95,94,105,96",
-                        "endOffsets": "3544,7317,7423,7520"
-                    }
-                },
-                {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\168a0e9b266787d4328f16bfff80733e\\transformed\\jetified-ui-release\\res\\values-am\\values-am.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,188,265,357,453,535,613,696,778,856,922,988,1066,1147,1217,1297,1362",
-                        "endColumns": "82,76,91,95,81,77,82,81,77,65,65,77,80,69,79,64,115",
-                        "endOffsets": "183,260,352,448,530,608,691,773,851,917,983,1061,1142,1212,1292,1357,1473"
-                    },
-                    "to": {
-                        "startLines": "13,14,66,67,69,74,75,79,80,84,92,93,94,103,107,108,109",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1212,1295,6813,6905,7071,7525,7603,7836,7918,8217,8845,8911,8989,9506,9856,9936,10001",
-                        "endColumns": "82,76,91,95,81,77,82,81,77,65,65,77,80,69,79,64,115",
-                        "endOffsets": "1290,1367,6900,6996,7148,7598,7681,7913,7991,8278,8906,8984,9065,9571,9931,9996,10112"
-                    }
-                },
-                {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\ea5f595040624d7238a1a4711ce2a4be\\transformed\\core-1.12.0\\res\\values-am\\values-am.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,148,248,345,444,540,642,742",
-                        "endColumns": "92,99,96,98,95,101,99,100",
-                        "endOffsets": "143,243,340,439,535,637,737,838"
-                    },
-                    "to": {
-                        "startLines": "6,7,8,9,10,11,12,105",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "525,618,718,815,914,1010,1112,9657",
-                        "endColumns": "92,99,96,98,95,101,99,100",
-                        "endOffsets": "613,713,810,909,1005,1107,1207,9753"
-                    }
-                },
-                {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\4e120a56ef6862efab9e50243d38cf3c\\transformed\\jetified-play-services-base-18.0.0\\res\\values-am\\values.xml",
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\68dafe7347de18a9a7650f47647db0fe\\transformed\\jetified-play-services-base-18.0.0\\res\\values-am\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -106,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\5b97419e75ad5797c612563414701e1d\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-am\\values.xml",
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\c72e907434cbcd8f37df13f74b4caf4b\\transformed\\jetified-play-services-ads-22.6.0\\res\\values-am\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,239,286,337,398,461,546,618,703,753,848,906,1009,1080,1117,1191,1223,1259,1305,1369,1408",
+                        "endColumns": "39,46,50,60,62,84,71,84,49,94,57,102,70,36,73,31,35,45,63,38,55",
+                        "endOffsets": "238,285,336,397,460,545,617,702,752,847,905,1008,1079,1116,1190,1222,1258,1304,1368,1407,1463"
+                    },
+                    "to": {
+                        "startLines": "76,77,78,81,82,83,85,86,87,88,89,90,91,95,96,97,98,99,100,101,124",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7686,7730,7781,7996,8061,8128,8283,8359,8448,8502,8601,8663,8770,9070,9111,9189,9225,9265,9315,9383,11394",
+                        "endColumns": "43,50,54,64,66,88,75,88,53,98,61,106,74,40,77,35,39,49,67,42,59",
+                        "endOffsets": "7725,7776,7831,8056,8123,8212,8354,8443,8497,8596,8658,8765,8840,9106,9184,9220,9260,9310,9378,9421,11449"
+                    }
+                },
+                {
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\8e2f3c686c7336d68ac3eb36dee5a5e6\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-am\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -120,6 +69,57 @@
                         "startOffsets": "2372",
                         "endColumns": "131",
                         "endOffsets": "2499"
+                    }
+                },
+                {
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\ce4ea5e2a90bba2691f13aaca50c3cc4\\transformed\\core-1.12.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,248,345,444,540,642,742",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "143,243,340,439,535,637,737,838"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,105",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "525,618,718,815,914,1010,1112,9657",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "613,713,810,909,1005,1107,1207,9753"
+                    }
+                },
+                {
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\e4b7f26ab863f9f438b40fecf081bcd9\\transformed\\browser-1.4.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,151,246,352",
+                        "endColumns": "95,94,105,96",
+                        "endOffsets": "146,241,347,444"
+                    },
+                    "to": {
+                        "startLines": "34,71,72,73",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3453,7227,7322,7428",
+                        "endColumns": "95,94,105,96",
+                        "endOffsets": "3544,7317,7423,7520"
+                    }
+                },
+                {
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\7d2cbfd3fc4e6250b9d4cc8e6cdfb1bb\\transformed\\jetified-ui-release\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,188,265,357,453,535,613,696,778,856,922,988,1066,1147,1217,1297,1362",
+                        "endColumns": "82,76,91,95,81,77,82,81,77,65,65,77,80,69,79,64,115",
+                        "endOffsets": "183,260,352,448,530,608,691,773,851,917,983,1061,1142,1212,1292,1357,1473"
+                    },
+                    "to": {
+                        "startLines": "13,14,66,67,69,74,75,79,80,84,92,93,94,103,107,108,109",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1212,1295,6813,6905,7071,7525,7603,7836,7918,8217,8845,8911,8989,9506,9856,9936,10001",
+                        "endColumns": "82,76,91,95,81,77,82,81,77,65,65,77,80,69,79,64,115",
+                        "endOffsets": "1290,1367,6900,6996,7148,7598,7681,7913,7991,8278,8906,8984,9065,9571,9931,9996,10112"
                     }
                 }
             ]

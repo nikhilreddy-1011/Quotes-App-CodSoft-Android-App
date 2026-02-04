@@ -1,31 +1,36 @@
 pluginManagement {
     repositories {
-        // Try multiple mirrors to avoid connection issues
-        maven { url = uri("https://maven.aliyun.com/repository/google") }
+        // Try Aliyun mirrors first (better connectivity in Asia)
+        maven { 
+            url = uri("https://maven.aliyun.com/repository/google")
+            content {
+                includeGroupByRegex("com\\.android.*")
+                includeGroupByRegex("com\\.google.*")
+                includeGroupByRegex("androidx.*")
+            }
+        }
         maven { url = uri("https://maven.aliyun.com/repository/central") }
         maven { url = uri("https://maven.aliyun.com/repository/gradle-plugin") }
+        // Standard repos as fallback (for KSP and other plugins)
         google()
         mavenCentral()
         gradlePluginPortal()
-        // JitPack as fallback
+        // JitPack as final fallback
         maven { url = uri("https://jitpack.io") }
     }
 }
 
 dependencyResolutionManagement {
-    // Allow project repos to use alternative mirrors
     repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
-        // Try Aliyun mirrors first (faster and more reliable in Asia)
+        // Try Aliyun mirrors first (better connectivity in Asia)
         maven { url = uri("https://maven.aliyun.com/repository/google") }
         maven { url = uri("https://maven.aliyun.com/repository/central") }
         maven { url = uri("https://maven.aliyun.com/repository/public") }
-        
-        // Original repos as fallback
+        // Standard repos as fallback
         google()
         mavenCentral()
-        
-        // JitPack as additional fallback
+        // JitPack as final fallback
         maven { url = uri("https://jitpack.io") }
     }
 }

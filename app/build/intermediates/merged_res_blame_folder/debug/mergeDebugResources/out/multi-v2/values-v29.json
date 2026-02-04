@@ -4,7 +4,7 @@
             "outputFile": "com.quotes.app-mergeDebugResources-2:/values-v29/values-v29.xml",
             "map": [
                 {
-                    "source": "C:\\Quotes App\\caches\\transforms-3\\9647589a17864ceb42f8765bacb81fd8\\transformed\\jetified-core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "source": "C:\\Quotes App\\caches\\transforms-3\\1645b27039b531ca8c63828e3c3f2ccc\\transformed\\jetified-core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",
